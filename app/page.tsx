@@ -25,14 +25,14 @@ export default function Home() {
 
 
   return (
-    <main className="mt-[68px] container mx-auto p-4">
+    <main className="mt-24 container mx-auto p-4">
       <Card className="shadow-md overflow-y-auto" style={{height: "calc(100vh - 100px)"}}>
         <CardHeader className="flex flex-row justify-between">
           <div>
             <CardTitle className="mb-2">Surah List</CardTitle>
             <CardDescription>List of all the surahs in Quran and some info about them.</CardDescription>
           </div>
-          <Input className="w-60" placeholder="Search..." value={searchQuery}
+          <Input className="w-60" placeholder="Search surah..." value={searchQuery}
             onChange={handleSearchChange} />
 
         </CardHeader>

@@ -16,7 +16,6 @@ const Login = () => {
   const googleLogin = async () => {
     try {
       const userCredential = await signInWithPopup(auth, googleProvider);
-      console.log("User signed in: ", userCredential.user);
     } catch (error) {
       console.error("Error during sign-in: ", error);
       alert("An unexpected error occurred. Please try again later.");
