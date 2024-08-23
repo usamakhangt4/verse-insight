@@ -38,7 +38,7 @@ const Surah = ({params}: {params: any}) => {
 
   return (
     <div className="mt-24 container mx-auto p-4">
-      <div className="flex justify-between items-center flex-wrap gap-5  border-b pb-2 mb-5">
+      <div className="flex flex-row justify-between items-center flex-wrap gap-5  border-b pb-6 mb-5">
         {isLoading ?
           <>
             <Skeleton className="h-9 w-52 rounded-md" />
@@ -47,7 +47,7 @@ const Surah = ({params}: {params: any}) => {
             Surah {surah?.nameInTransliteration} / <span className="tracking-wider">{surah?.nameInArabic}</span>
           </h2>
         }
-        <Input className="w-60" placeholder="Search verse..." value={searchQuery}
+        <Input className="sm:w-60 sm:flex-none min-w-60 flex-1" placeholder="Search verse..." value={searchQuery}
           onChange={handleSearchChange} />
       </div>
 
