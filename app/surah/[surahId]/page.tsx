@@ -30,8 +30,8 @@ const Surah = ({params}: {params: any}) => {
     return (
       VerseListSkeletonArr.map((str, index) =>
         <Card className="shadow-lg p-5 flex items-center gap-5 " key={str + index}>
-          <Skeleton className="h-9 w-52 rounded-md" />
-          <Skeleton className="h-9 w-52 rounded-md" />
+          <Skeleton className="h-9 w-5 rounded-md" />
+          <Skeleton className="h-9 w-full rounded-md" />
         </Card>)
     )
   }
