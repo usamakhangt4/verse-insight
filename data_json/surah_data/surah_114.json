@@ -1,0 +1,38 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Say, “I take refuge in the Lord of humanity."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "The King of humanity."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "The God of humanity."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "From the evil of the retreating whisperer."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Who whispers into the hearts of people."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "From among jinn and humans.”"
+        }
+    ],
+    "chapterNumber": 114,
+    "nameInEnglish": "Humanity",
+    "nameInTransliteration": "An Nas",
+    "nameInArabic": "الـناس",
+    "numberOfVerses": 6
+}

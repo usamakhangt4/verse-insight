@@ -1,0 +1,38 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Say, “O unbelievers."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "I don’t worship what you worship."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Nor are you worshipers of what I worship."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "Nor will I worship what you worship."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Nor will you be worshippers of what I worship."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "For you is your religion, and for me is mine.”"
+        }
+    ],
+    "chapterNumber": 109,
+    "nameInEnglish": "The Unbelievers",
+    "nameInTransliteration": "Al Kafirun",
+    "nameInArabic": "الـكافرون",
+    "numberOfVerses": 6
+}

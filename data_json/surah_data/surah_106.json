@@ -1,0 +1,30 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "For the accustomed security of the Quraysh."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "Their habitual winter and summer journeys."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Let them worship the Lord of this House."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "Who fed them against hunger, and made them safe from fear."
+        }
+    ],
+    "chapterNumber": 106,
+    "nameInEnglish": "Quraysh",
+    "nameInTransliteration": "Quraysh",
+    "nameInArabic": "قريش",
+    "numberOfVerses": 4
+}

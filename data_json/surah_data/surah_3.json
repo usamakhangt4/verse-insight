@@ -1,0 +1,946 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Alif. Lam. Meem."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "God—there is no god but He, the Ever-Living, the Sustainer of all existence.",
+            "verseStringReplacedWithAllah": "Allah—there is no god but He, the Ever-Living, the Sustainer of all existence."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "He revealed to you the Book with truth, confirming what preceded it. He also revealed the Torah and the Gospel."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "Aforetime, as guidance for humanity. And He revealed the Criterion. Those who deny God’s revelations will face harsh punishment. God is Mighty, the Avenger.",
+            "verseStringReplacedWithAllah": "Aforetime, as guidance for humanity. And He revealed the Criterion. Those who deny Allah’s revelations will face harsh punishment. Allah is Mighty, the Avenger."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Nothing on earth or in the heavens is hidden from God.",
+            "verseStringReplacedWithAllah": "Nothing on earth or in the heavens is hidden from Allah."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "It is He who shapes you in the wombs as He wills. There is no deity but He, the Almighty, the Wise."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "It is He who revealed to you the Scripture. Some of its verses are definitive—they are the foundation of the Book—while others are allegorical. Those with deviant hearts pursue the allegorical, seeking discord and seeking its interpretation. However, none knows its interpretation except God and those firmly grounded in knowledge say, “We believe in it; all of it is from our Lord.” Only those endowed with understanding take heed.",
+            "verseStringReplacedWithAllah": "It is He who revealed to you the Scripture. Some of its verses are definitive—they are the foundation of the Book—while others are allegorical. Those with deviant hearts pursue the allegorical, seeking discord and seeking its interpretation. However, none knows its interpretation except Allah and those firmly grounded in knowledge say, “We believe in it; all of it is from our Lord.” Only those endowed with understanding take heed."
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "“Our Lord, don’t let our hearts deviate after You have guided us. Grant us mercy from Yourself; You are the Giver.”"
+        },
+        {
+            "verseNumber": 9,
+            "verseString": "“Our Lord, You will gather humankind on a Day that’s inevitable.” God never breaks His promise.",
+            "verseStringReplacedWithAllah": "“Our Lord, You will gather humankind on a Day that’s inevitable.” Allah never breaks His promise."
+        },
+        {
+            "verseNumber": 10,
+            "verseString": "As for those who disbelieve, neither their wealth nor their children will avail them against God. These are Fuel for the Fire.",
+            "verseStringReplacedWithAllah": "As for those who disbelieve, neither their wealth nor their children will avail them against Allah. These are Fuel for the Fire."
+        },
+        {
+            "verseNumber": 11,
+            "verseString": "Similar to the command of Pharaoh’s people and those before them; they denied Our revelations, so God seized them for their sins. God is severe in retribution.",
+            "verseStringReplacedWithAllah": "Similar to the command of Pharaoh’s people and those before them; they denied Our revelations, so Allah seized them for their sins. Allah is severe in retribution."
+        },
+        {
+            "verseNumber": 12,
+            "verseString": "Tell those who disbelieve, “You will be overcome and gathered into Hell, a wretched destination.”"
+        },
+        {
+            "verseNumber": 13,
+            "verseString": "There was a lesson for you in the two groups that met—one fighting for God’s cause and the other of unbelievers. They saw them with their own eyes, twice their number. God supports with His aid whom He wills. In this, there is a lesson for those with insight.",
+            "verseStringReplacedWithAllah": "There was a lesson for you in the two groups that met—one fighting for Allah’s cause and the other of unbelievers. They saw them with their own eyes, twice their number. Allah supports with His aid whom He wills. In this, there is a lesson for those with insight."
+        },
+        {
+            "verseNumber": 14,
+            "verseString": "Beautified for people is the love of desires—women, children, heaps of gold and silver, fine horses, livestock, and fertile lands. These are the pleasures of worldly life, but with God is the best return.",
+            "verseStringReplacedWithAllah": "Beautified for people is the love of desires—women, children, heaps of gold and silver, fine horses, livestock, and fertile lands. These are the pleasures of worldly life, but with Allah is the best return."
+        },
+        {
+            "verseNumber": 15,
+            "verseString": "Say, “Shall I inform you of something better than these? For the righteous, there are Gardens with their Lord, beneath which rivers flow, where they will reside forever, with purified spouses and God’s approval.” God is Seeing of the beings.",
+            "verseStringReplacedWithAllah": "Say, “Shall I inform you of something better than these? For the righteous, there are Gardens with their Lord, beneath which rivers flow, where they will reside forever, with purified spouses and Allah’s approval.” Allah is Seeing of the beings."
+        },
+        {
+            "verseNumber": 16,
+            "verseString": "Those who say, “Our Lord, we have believed, so forgive us our sins, and protect us from the suffering of the Fire.”"
+        },
+        {
+            "verseNumber": 17,
+            "verseString": "The patient, the truthful, the obedient, those who spend, and those who seek forgiveness at dawn."
+        },
+        {
+            "verseNumber": 18,
+            "verseString": "God bears witness that there is no god except Him, and so do the angels and those endowed with knowledge. He upholds justice. There is no deity but He, the Mighty, the Wise.",
+            "verseStringReplacedWithAllah": "Allah bears witness that there is no god except Him, and so do the angels and those endowed with knowledge. He upholds justice. There is no deity but He, the Mighty, the Wise."
+        },
+        {
+            "verseNumber": 19,
+            "verseString": "Religion with God is Submission. Those given the Scripture only disputed after knowledge had come to them, out of jealousy. Whoever denies the signs of God—God is swift in reckoning.",
+            "verseStringReplacedWithAllah": "Religion with Allah is Submission. Those given the Scripture only disputed after knowledge had come to them, out of jealousy. Whoever denies the signs of Allah—Allah is swift in reckoning."
+        },
+        {
+            "verseNumber": 20,
+            "verseString": "If they argue with you, say, “I have submitted myself to God, and so have those who follow me.” To those who were given the Scripture and the unlettered, ask, “Have you submitted?” If they submit, they are guided, but if they turn away, your duty is only to convey the message. God is Observant of the beings.",
+            "verseStringReplacedWithAllah": "If they argue with you, say, “I have submitted myself to Allah, and so have those who follow me.” To those who were given the Scripture and the unlettered, ask, “Have you submitted?” If they submit, they are guided, but if they turn away, your duty is only to convey the message. Allah is Observant of the beings."
+        },
+        {
+            "verseNumber": 21,
+            "verseString": "Give news to those who deny God’s revelations, kill the Prophets without right, and kill those who advocate for justice, of a severe punishment.",
+            "verseStringReplacedWithAllah": "Give news to those who deny Allah’s revelations, kill the Prophets without right, and kill those who advocate for justice, of a severe punishment."
+        },
+        {
+            "verseNumber": 22,
+            "verseString": "Their deeds will be rendered worthless in this world and the Hereafter, and they will have no helpers."
+        },
+        {
+            "verseNumber": 23,
+            "verseString": "Did you consider those who were given a portion of the Scripture? They were invited to the Book of God to judge between them, yet a group of them turned away in defiance.",
+            "verseStringReplacedWithAllah": "Did you consider those who were given a portion of the Scripture? They were invited to the Book of Allah to judge between them, yet a group of them turned away in defiance."
+        },
+        {
+            "verseNumber": 24,
+            "verseString": "This is because they say, “The Fire will touch us only for a number of days.” What they used to invent deceived them in their religion."
+        },
+        {
+            "verseNumber": 25,
+            "verseString": "How will it be when We gather them on an inevitable Day? Every soul will be fully recompensed for what it has earned, and they won’t be treated unjustly."
+        },
+        {
+            "verseNumber": 26,
+            "verseString": "Say, “O God, Holder of all sovereigns, You grant sovereignty to whom You will, and You strip sovereignty from whom You will. You honor whom You will, and You humiliate whom You will. In Your hand is the good; You are capable of everything.”",
+            "verseStringReplacedWithAllah": "Say, “O Allah, Holder of all sovereigns, You grant sovereignty to whom You will, and You strip sovereignty from whom You will. You honor whom You will, and You humiliate whom You will. In Your hand is the good; You are capable of everything.”"
+        },
+        {
+            "verseNumber": 27,
+            "verseString": "“You merge the night with the day, and the day with the night. You bring the living from the dead, and the dead from the living. And You supply whoever You will, without account.”"
+        },
+        {
+            "verseNumber": 28,
+            "verseString": "Believers should not take unbelievers as protectors instead of believers. Whoever does so has nothing to do with God, unless it is to protect oneself from them out of caution. God warns you about Himself. To God is the final return.",
+            "verseStringReplacedWithAllah": "Believers should not take unbelievers as protectors instead of believers. Whoever does so has nothing to do with Allah, unless it is to protect oneself from them out of caution. Allah warns you about Himself. To Allah is the final return."
+        },
+        {
+            "verseNumber": 29,
+            "verseString": "Say, “Whether you conceal what’s in your hearts or disclose it, God knows it.” He knows everything in the heavens and on earth. God is fully capable of all things.",
+            "verseStringReplacedWithAllah": "Say, “Whether you conceal what’s in your hearts or disclose it, Allah knows it.” He knows everything in the heavens and on earth. Allah is fully capable of all things."
+        },
+        {
+            "verseNumber": 30,
+            "verseString": "On the Day when every soul will find its good deeds presented, it will wish there was a great distance between itself and its wrongdoings. God cautions you about Himself, and God is full of kindness to the servants.",
+            "verseStringReplacedWithAllah": "On the Day when every soul will find its good deeds presented, it will wish there was a great distance between itself and its wrongdoings. Allah cautions you about Himself, and Allah is full of kindness to the servants."
+        },
+        {
+            "verseNumber": 31,
+            "verseString": "Say, “If you love God, then follow me, and God will love you and forgive your sins.” God is Forgiving and Merciful.",
+            "verseStringReplacedWithAllah": "Say, “If you love Allah, then follow me, and Allah will love you and forgive your sins.” Allah is Forgiving and Merciful."
+        },
+        {
+            "verseNumber": 32,
+            "verseString": "Say, “Obey God and the Messenger.” But if they turn away—God doesn’t love the disbelievers.",
+            "verseStringReplacedWithAllah": "Say, “Obey Allah and the Messenger.” But if they turn away—Allah doesn’t love the disbelievers."
+        },
+        {
+            "verseNumber": 33,
+            "verseString": "God chose Adam, Noah, the family of Abraham, and Imran’s family over all worlds.",
+            "verseStringReplacedWithAllah": "Allah chose Adam, Noah, the family of Abraham, and Imran’s family over all worlds."
+        },
+        {
+            "verseNumber": 34,
+            "verseString": "They are offspring of one another. God is All-Hearing, All-Knowing.",
+            "verseStringReplacedWithAllah": "They are offspring of one another. Allah is All-Hearing, All-Knowing."
+        },
+        {
+            "verseNumber": 35,
+            "verseString": "When Imran’s wife said, “O my Lord, I dedicate what’s in my womb to Your service, so accept it from me. You are the All-Hearing, the All-Knowing.”"
+        },
+        {
+            "verseNumber": 36,
+            "verseString": "When she delivered her, she said, “My Lord, I have delivered a female.” And God knew what she had delivered, “And the male isn’t like the female. I have named her Mary, and I seek Your protection for her and her offspring from Satan, the outcast.”",
+            "verseStringReplacedWithAllah": "When she delivered her, she said, “My Lord, I have delivered a female.” And Allah knew what she had delivered, “And the male isn’t like the female. I have named her Mary, and I seek Your protection for her and her offspring from Satan, the outcast.”"
+        },
+        {
+            "verseNumber": 37,
+            "verseString": "Her Lord graciously accepted her, made her grow in a beautiful manner, and entrusted her care to Zechariah. Whenever Zechariah visited her in the prayer chamber, he found her with provisions. He inquired, “Mary, from where did you get these?” She replied, “It is from God. God provides for whom He wills without measure.”",
+            "verseStringReplacedWithAllah": "Her Lord graciously accepted her, made her grow in a beautiful manner, and entrusted her care to Zechariah. Whenever Zechariah visited her in the prayer chamber, he found her with provisions. He inquired, “Mary, from where did you get these?” She replied, “It is from Allah. Allah provides for whom He wills without measure.”"
+        },
+        {
+            "verseNumber": 38,
+            "verseString": "At that moment, Zechariah prayed to his Lord: “My Lord, grant me, through Your mercy, a good offspring—You are the Hearer of Prayers.”"
+        },
+        {
+            "verseNumber": 39,
+            "verseString": "As he stood in prayer in the prayer chamber, the angels called out to him: “God gives you good news of John, confirming a Word from God, a man of honor, virtue, and a righteous prophet.”",
+            "verseStringReplacedWithAllah": "As he stood in prayer in the prayer chamber, the angels called out to him: “Allah gives you good news of John, confirming a Word from Allah, a man of honor, virtue, and a righteous prophet.”"
+        },
+        {
+            "verseNumber": 40,
+            "verseString": "He asked, “My Lord, how can I have a child when I have reached old age and my wife is barren?” He said, “Thus God does whatever He wills.”",
+            "verseStringReplacedWithAllah": "He asked, “My Lord, how can I have a child when I have reached old age and my wife is barren?” He said, “Thus Allah does whatever He wills.”"
+        },
+        {
+            "verseNumber": 41,
+            "verseString": "He then said, “My Lord, give me a sign.” He replied, “Your sign is that you shall not speak to anyone for three days except by signals. And remember your Lord often, and offer praises in the evening and the morning.”"
+        },
+        {
+            "verseNumber": 42,
+            "verseString": "The angels announced, “O Mary, God has chosen you, purified you, and selected you above the women of the world.”",
+            "verseStringReplacedWithAllah": "The angels announced, “O Mary, Allah has chosen you, purified you, and selected you above the women of the world.”"
+        },
+        {
+            "verseNumber": 43,
+            "verseString": "“O Mary, devote yourself to your Lord, prostrate, and bow with those who bow down.”"
+        },
+        {
+            "verseNumber": 44,
+            "verseString": "This is news from the unseen, which We reveal to you. You weren’t with them when they cast their lots to determine who would be Mary’s guardian, nor were you with them when they disputed."
+        },
+        {
+            "verseNumber": 45,
+            "verseString": "The angels announced, “O Mary, God gives you good news of a Word from Him. His name is Messiah, Jesus, son of Mary. He will be honored in the world, the Hereafter, and one of the nearest.",
+            "verseStringReplacedWithAllah": "The angels announced, “O Mary, Allah gives you good news of a Word from Him. His name is Messiah, Jesus, son of Mary. He will be honored in the world, the Hereafter, and one of the nearest."
+        },
+        {
+            "verseNumber": 46,
+            "verseString": "He will speak to people in infancy and maturity, and will be righteous.”"
+        },
+        {
+            "verseNumber": 47,
+            "verseString": "She asked, “My Lord, how can I have a child, when no man has touched me?” He replied, “It will be so; God creates whatever He wills. When He decrees a thing, He only says to it, ‘Be,’ and it is.”",
+            "verseStringReplacedWithAllah": "She asked, “My Lord, how can I have a child, when no man has touched me?” He replied, “It will be so; Allah creates whatever He wills. When He decrees a thing, He only says to it, ‘Be,’ and it is.”"
+        },
+        {
+            "verseNumber": 48,
+            "verseString": "He will teach him the Scripture, wisdom, the Torah and the Gospel."
+        },
+        {
+            "verseNumber": 49,
+            "verseString": "As a messenger to the Children of Israel: “I bring you signs from your Lord. I create for you from clay the form of a bird, then I breathe into it, and by God’s permission, it becomes a bird. I heal the blind and the lepers, by God’s permission, and I revive the dead, by God’s permission. I inform you of what you eat and store in your homes. There is a sign for you in this, if you are believers.”",
+            "verseStringReplacedWithAllah": "As a messenger to the Children of Israel: “I bring you signs from your Lord. I create for you from clay the form of a bird, then I breathe into it, and by Allah’s permission, it becomes a bird. I heal the blind and the lepers, by Allah’s permission, and I revive the dead, by Allah’s permission. I inform you of what you eat and store in your homes. There is a sign for you in this, if you are believers.”"
+        },
+        {
+            "verseNumber": 50,
+            "verseString": "“And I confirm the Torah that preceded me, and I make some of what was forbidden to you lawful. I bring clear evidence from your Lord, so fear God and obey me.”",
+            "verseStringReplacedWithAllah": "“And I confirm the Torah that preceded me, and I make some of what was forbidden to you lawful. I bring clear evidence from your Lord, so fear Allah and obey me.”"
+        },
+        {
+            "verseNumber": 51,
+            "verseString": "“God is my Lord and your Lord, so worship Him. This is a straight path.”",
+            "verseStringReplacedWithAllah": "“Allah is my Lord and your Lord, so worship Him. This is a straight path.”"
+        },
+        {
+            "verseNumber": 52,
+            "verseString": "When Jesus sensed their disbelief, he asked, “Who will be my allies in God’s cause?” The disciples responded, “We are God’s allies. We have faith in God, and you can witness that we are submitters.”",
+            "verseStringReplacedWithAllah": "When Jesus sensed their disbelief, he asked, “Who will be my allies in Allah’s cause?” The disciples responded, “We are Allah’s allies. We have faith in Allah, and you can witness that we are submitters.”"
+        },
+        {
+            "verseNumber": 53,
+            "verseString": "“Our Lord, we believe in what You’ve revealed, and we follow the Messenger, so record us among the witnesses.”"
+        },
+        {
+            "verseNumber": 54,
+            "verseString": "They planned, and God planned. And God is the best of planners.",
+            "verseStringReplacedWithAllah": "They planned, and Allah planned. And Allah is the best of planners."
+        },
+        {
+            "verseNumber": 55,
+            "verseString": "God said, “O Jesus, I am concluding your life, elevating you to Myself, and purifying you from those who disbelieve. I will position those who follow you above those who disbelieve, until Resurrection Day. Then, to Me is your return, and I will arbitrate among you regarding your disputes.",
+            "verseStringReplacedWithAllah": "Allah said, “O Jesus, I am concluding your life, elevating you to Myself, and purifying you from those who disbelieve. I will position those who follow you above those who disbelieve, until Resurrection Day. Then, to Me is your return, and I will arbitrate among you regarding your disputes."
+        },
+        {
+            "verseNumber": 56,
+            "verseString": "As for those who disbelieve, I will punish them severely in this world and the Hereafter, and they will have no helpers."
+        },
+        {
+            "verseNumber": 57,
+            "verseString": "However, for those who believe and do righteous deeds, He will reward them fully. God doesn’t love the unjust.”",
+            "verseStringReplacedWithAllah": "However, for those who believe and do righteous deeds, He will reward them fully. Allah doesn’t love the unjust.”"
+        },
+        {
+            "verseNumber": 58,
+            "verseString": "These are the verses that We convey to you, and the Wise Reminder."
+        },
+        {
+            "verseNumber": 59,
+            "verseString": "In the sight of God, Jesus is like Adam: He created him from soil, then He said to him, “Be!” and he was.",
+            "verseStringReplacedWithAllah": "In the sight of Allah, Jesus is like Adam: He created him from soil, then He said to him, “Be!” and he was."
+        },
+        {
+            "verseNumber": 60,
+            "verseString": "This is the truth from your Lord, so don’t be among the doubters."
+        },
+        {
+            "verseNumber": 61,
+            "verseString": "If anyone disputes with you about him, after the knowledge that has come to you, say, “Come, let us call our children and your children, our women and your women, ourselves and yourselves, then we can make a prayer and invoke the curse of God upon the liars.”",
+            "verseStringReplacedWithAllah": "If anyone disputes with you about him, after the knowledge that has come to you, say, “Come, let us call our children and your children, our women and your women, ourselves and yourselves, then we can make a prayer and invoke the curse of Allah upon the liars.”"
+        },
+        {
+            "verseNumber": 62,
+            "verseString": "This is the factual narrative. There is no god but God. And certainly, God is the Mighty, the Wise.",
+            "verseStringReplacedWithAllah": "This is the factual narrative. There is no god but Allah. And certainly, Allah is the Mighty, the Wise."
+        },
+        {
+            "verseNumber": 63,
+            "verseString": "If they turn away, then God is aware of the corrupters.",
+            "verseStringReplacedWithAllah": "If they turn away, then Allah is aware of the corrupters."
+        },
+        {
+            "verseNumber": 64,
+            "verseString": "Say, “O People of the Scripture, let us come to a common word: that we worship none but God, that we associate nothing with Him, and that we don’t take each other as lords besides God.” If they turn away, say, “Bear witness that we are submissive.”",
+            "verseStringReplacedWithAllah": "Say, “O People of the Scripture, let us come to a common word: that we worship none but Allah, that we associate nothing with Him, and that we don’t take each other as lords besides Allah.” If they turn away, say, “Bear witness that we are submissive.”"
+        },
+        {
+            "verseNumber": 65,
+            "verseString": "O People of the Scripture, why do you argue about Abraham, when the Torah and the Gospel weren’t revealed until after him? Don’t you reason?"
+        },
+        {
+            "verseNumber": 66,
+            "verseString": "Here you are, arguing about things you know of, but why do you argue about things you don’t know? God knows, and you don’t know.",
+            "verseStringReplacedWithAllah": "Here you are, arguing about things you know of, but why do you argue about things you don’t know? Allah knows, and you don’t know."
+        },
+        {
+            "verseNumber": 67,
+            "verseString": "Abraham was neither a Jew nor a Christian, but a monotheist, a submitter, and he wasn’t of the polytheists."
+        },
+        {
+            "verseNumber": 68,
+            "verseString": "Those most deserving of Abraham are those who follow him, this Prophet and those who believe. God is the Ally of the believers.",
+            "verseStringReplacedWithAllah": "Those most deserving of Abraham are those who follow him, this Prophet and those who believe. Allah is the Ally of the believers."
+        },
+        {
+            "verseNumber": 69,
+            "verseString": "Some People of the Scripture wish to mislead you, but they only mislead themselves without realizing it."
+        },
+        {
+            "verseNumber": 70,
+            "verseString": "O People of the Scripture, why do you deny God’s verses, even while you witness them?",
+            "verseStringReplacedWithAllah": "O People of the Scripture, why do you deny Allah’s verses, even while you witness them?"
+        },
+        {
+            "verseNumber": 71,
+            "verseString": "O People of the Scripture, why do you mix truth with falsehood and knowingly conceal the truth?"
+        },
+        {
+            "verseNumber": 72,
+            "verseString": "Some people of the Scripture say, “Believe in what was revealed to the believers at the beginning of the day, disbelieve at the end of the day, so they may return.”"
+        },
+        {
+            "verseNumber": 73,
+            "verseString": "Believe in no one except those who follow your religion. Say, “God’s guidance is the guidance. If anyone is given the same as you were, or argues with you before your Lord, say, ‘All blessings are in God’s hand; He grants them to whom He wills. God’s bounty is infinite, and He is All-Knowing.’”",
+            "verseStringReplacedWithAllah": "Believe in no one except those who follow your religion. Say, “Allah’s guidance is the guidance. If anyone is given the same as you were, or argues with you before your Lord, say, ‘All blessings are in Allah’s hand; He grants them to whom He wills. Allah’s bounty is infinite, and He is All-Knowing.’”"
+        },
+        {
+            "verseNumber": 74,
+            "verseString": "He selects for His mercy whom He wills. And indeed, God is of great bounty.",
+            "verseStringReplacedWithAllah": "He selects for His mercy whom He wills. And indeed, Allah is of great bounty."
+        },
+        {
+            "verseNumber": 75,
+            "verseString": "Among the People of the Scripture, there are those who, if entrusted with a fortune, will return it to you. Yet, there are others who, if entrusted with a single coin, won’t return it unless you constantly stand over them. That is because they say, “We are under no obligation towards the Gentiles.” They knowingly tell lies about God.",
+            "verseStringReplacedWithAllah": "Among the People of the Scripture, there are those who, if entrusted with a fortune, will return it to you. Yet, there are others who, if entrusted with a single coin, won’t return it unless you constantly stand over them. That is because they say, “We are under no obligation towards the Gentiles.” They knowingly tell lies about Allah."
+        },
+        {
+            "verseNumber": 76,
+            "verseString": "But yes, whoever fulfills his pledge and acts righteously—God loves the righteous.",
+            "verseStringReplacedWithAllah": "But yes, whoever fulfills his pledge and acts righteously—Allah loves the righteous."
+        },
+        {
+            "verseNumber": 77,
+            "verseString": "Those who exchange God’s covenant and their oaths for a trivial gain will have no share in the Hereafter, and God will neither speak to them nor look at them on Resurrection Day nor purify them. A severe punishment awaits them.",
+            "verseStringReplacedWithAllah": "Those who exchange Allah’s covenant and their oaths for a trivial gain will have no share in the Hereafter, and Allah will neither speak to them nor look at them on Resurrection Day nor purify them. A severe punishment awaits them."
+        },
+        {
+            "verseNumber": 78,
+            "verseString": "Some of them manipulate the Scripture with their tongues to make you think it’s from the Scripture when it’s not. And they say, “This is from God,” when it’s not from God. They tell a lie about God knowingly.",
+            "verseStringReplacedWithAllah": "Some of them manipulate the Scripture with their tongues to make you think it’s from the Scripture when it’s not. And they say, “This is from Allah,” when it’s not from Allah. They tell a lie about Allah knowingly."
+        },
+        {
+            "verseNumber": 79,
+            "verseString": "It is not possible for a human to whom God has given the Scripture, wisdom, and prophethood to tell people, “Worship me apart from God.” Instead, “Be worshipers of the Lord, according to the Scripture you teach and study.”",
+            "verseStringReplacedWithAllah": "It is not possible for a human to whom Allah has given the Scripture, wisdom, and prophethood to tell people, “Worship me apart from Allah.” Instead, “Be worshipers of the Lord, according to the Scripture you teach and study.”"
+        },
+        {
+            "verseNumber": 80,
+            "verseString": "And he would not command you to take angels and prophets as lords. Would he command you to disbelief after you’ve submitted?"
+        },
+        {
+            "verseNumber": 81,
+            "verseString": "God received a covenant from the prophets: “Having given you the Scripture and wisdom, if there comes to you a messenger confirming what you have, you must believe in him and support him.” He asked, “Do you agree and accept My covenant on these terms?” They responded, “We agree.” He said, “Then bear witness, and I am also among the witnesses.”",
+            "verseStringReplacedWithAllah": "Allah received a covenant from the prophets: “Having given you the Scripture and wisdom, if there comes to you a messenger confirming what you have, you must believe in him and support him.” He asked, “Do you agree and accept My covenant on these terms?” They responded, “We agree.” He said, “Then bear witness, and I am also among the witnesses.”"
+        },
+        {
+            "verseNumber": 82,
+            "verseString": "Those who turn away after this are the transgressors."
+        },
+        {
+            "verseNumber": 83,
+            "verseString": "Do they seek a religion other than that of God, when everything in the heavens and on earth has submitted to Him, willingly or unwillingly, and to Him, they will be returned?",
+            "verseStringReplacedWithAllah": "Do they seek a religion other than that of Allah, when everything in the heavens and on earth has submitted to Him, willingly or unwillingly, and to Him, they will be returned?"
+        },
+        {
+            "verseNumber": 84,
+            "verseString": "Say, “We believe in God and in what was revealed to us, in what was revealed to Abraham, Ishmael, Isaac, Jacob, and the Tribes, and in what was given to Moses, Jesus, and the prophets from their Lord. We make no distinction between any of them, and to Him we are submissive.”",
+            "verseStringReplacedWithAllah": "Say, “We believe in Allah and in what was revealed to us, in what was revealed to Abraham, Ishmael, Isaac, Jacob, and the Tribes, and in what was given to Moses, Jesus, and the prophets from their Lord. We make no distinction between any of them, and to Him we are submissive.”"
+        },
+        {
+            "verseNumber": 85,
+            "verseString": "Whoever seeks a religion other than Submission, it will not be accepted from him, and in the Hereafter, he will be among the losers."
+        },
+        {
+            "verseNumber": 86,
+            "verseString": "How can God guide those who disbelieved after their faith, and after they witnessed the truth of the Messenger and clear proofs came to them? God doesn’t guide the wrongdoing people.",
+            "verseStringReplacedWithAllah": "How can Allah guide those who disbelieved after their faith, and after they witnessed the truth of the Messenger and clear proofs came to them? Allah doesn’t guide the wrongdoing people."
+        },
+        {
+            "verseNumber": 87,
+            "verseString": "Upon such individuals rests the curse of God, the angels, and humanity.",
+            "verseStringReplacedWithAllah": "Upon such individuals rests the curse of Allah, the angels, and humanity."
+        },
+        {
+            "verseNumber": 88,
+            "verseString": "They will abide in it eternally; their torment won’t be alleviated, nor will they be granted any reprieve."
+        },
+        {
+            "verseNumber": 89,
+            "verseString": "Except for those who repent thereafter and reform. God is Forgiving and Merciful.",
+            "verseStringReplacedWithAllah": "Except for those who repent thereafter and reform. Allah is Forgiving and Merciful."
+        },
+        {
+            "verseNumber": 90,
+            "verseString": "Those who disbelieve after their belief, then increase in their disbelief, their repentance won’t be accepted—these are the astray."
+        },
+        {
+            "verseNumber": 91,
+            "verseString": "Those who reject faith and die as unbelievers, even if they were to offer a ransom equivalent to the earth’s weight in gold, it wouldn’t be accepted from them. These are destined for a painful punishment, and they will have no helpers."
+        },
+        {
+            "verseNumber": 92,
+            "verseString": "You won’t attain virtue until you give from what you hold dear. Whatever you give, God is fully aware of it.",
+            "verseStringReplacedWithAllah": "You won’t attain virtue until you give from what you hold dear. Whatever you give, Allah is fully aware of it."
+        },
+        {
+            "verseNumber": 93,
+            "verseString": "All food was lawful for the Children of Israel, except what Israel had prohibited for itself before the Torah was revealed. Say, “Bring the Torah and recite it—if you are truthful.”"
+        },
+        {
+            "verseNumber": 94,
+            "verseString": "Those who fabricate lies about God after this are the wrongdoers.",
+            "verseStringReplacedWithAllah": "Those who fabricate lies about Allah after this are the wrongdoers."
+        },
+        {
+            "verseNumber": 95,
+            "verseString": "Say, “God speaks the truth. So, follow the religion of Abraham, the monotheist, who was not of those who associated.”",
+            "verseStringReplacedWithAllah": "Say, “Allah speaks the truth. So, follow the religion of Abraham, the monotheist, who was not of those who associated.”"
+        },
+        {
+            "verseNumber": 96,
+            "verseString": "The first house established for humanity is the one at Bakkah—blessed and a guidance for all peoples."
+        },
+        {
+            "verseNumber": 97,
+            "verseString": "Within it are clear signs, such as the standing place of Abraham. Whoever enters it attains tranquility. Pilgrimage to the House is a duty to God for those who can make the journey. But whoever refuses—God doesn’t need any being in the universe.",
+            "verseStringReplacedWithAllah": "Within it are clear signs, such as the standing place of Abraham. Whoever enters it attains tranquility. Pilgrimage to the House is a duty to Allah for those who can make the journey. But whoever refuses—Allah doesn’t need any being in the universe."
+        },
+        {
+            "verseNumber": 98,
+            "verseString": "Say, “O People of the Scripture, why do you deny God’s verses while God is a Witness to your actions?”",
+            "verseStringReplacedWithAllah": "Say, “O People of the Scripture, why do you deny Allah’s verses while Allah is a Witness to your actions?”"
+        },
+        {
+            "verseNumber": 99,
+            "verseString": "Say, “O People of the Scripture, why do you deter believers from God’s path, attempting to make it seem crooked, even though you are witnesses? God is not unaware of what you do.”",
+            "verseStringReplacedWithAllah": "Say, “O People of the Scripture, why do you deter believers from Allah’s path, attempting to make it seem crooked, even though you are witnesses? Allah is not unaware of what you do.”"
+        },
+        {
+            "verseNumber": 100,
+            "verseString": "O you who have believed, if you obey some of those who were given the Scripture, they would turn you back, after your faith, into unbelievers."
+        },
+        {
+            "verseNumber": 101,
+            "verseString": "How can you disbelieve, when God’s revelations are being conveyed to you, and His Messenger is among you? Whoever holds fast to God will be guided to a straight path.",
+            "verseStringReplacedWithAllah": "How can you disbelieve, when Allah’s revelations are being conveyed to you, and His Messenger is among you? Whoever holds fast to Allah will be guided to a straight path."
+        },
+        {
+            "verseNumber": 102,
+            "verseString": "O you who believe, revere God with the reverence He is due, and don’t die except as Submitters.",
+            "verseStringReplacedWithAllah": "O you who believe, revere Allah with the reverence He is due, and don’t die except as Submitters."
+        },
+        {
+            "verseNumber": 103,
+            "verseString": "Hold fast to the rope of God, all together, and don’t be divided. Remember God’s favor upon you, when you were enemies to each other, and He reconciled your hearts. By His grace, you became brethren. You were on the brink of a pit of Fire, and He saved you from falling into it. Thus, God makes His revelations clear to you, so you may be guided.",
+            "verseStringReplacedWithAllah": "Hold fast to the rope of Allah, all together, and don’t be divided. Remember Allah’s favor upon you, when you were enemies to each other, and He reconciled your hearts. By His grace, you became brethren. You were on the brink of a pit of Fire, and He saved you from falling into it. Thus, Allah makes His revelations clear to you, so you may be guided."
+        },
+        {
+            "verseNumber": 104,
+            "verseString": "Let there emerge from among you a community calling for goodness, promoting righteousness, and deterring evil. These are the successful ones."
+        },
+        {
+            "verseNumber": 105,
+            "verseString": "Don’t be like those who split and disagreed after receiving clear proofs. For them is a severe punishment."
+        },
+        {
+            "verseNumber": 106,
+            "verseString": "On the Day when some faces will brighten, and others will darken. To those whose faces have darkened: “Did you disbelieve after having faith? So taste the punishment for your disbelief.”"
+        },
+        {
+            "verseNumber": 107,
+            "verseString": "Those with bright faces will be in God’s mercy, forever.",
+            "verseStringReplacedWithAllah": "Those with bright faces will be in Allah’s mercy, forever."
+        },
+        {
+            "verseNumber": 108,
+            "verseString": "These are God’s revelations that We convey to you in truth. And God does not desire any injustice for the worlds.",
+            "verseStringReplacedWithAllah": "These are Allah’s revelations that We convey to you in truth. And Allah does not desire any injustice for the worlds."
+        },
+        {
+            "verseNumber": 109,
+            "verseString": "Everything in the heavens and on earth belongs to God, and all affairs are returned to Him.",
+            "verseStringReplacedWithAllah": "Everything in the heavens and on earth belongs to Allah, and all affairs are returned to Him."
+        },
+        {
+            "verseNumber": 110,
+            "verseString": "You are the best community ever raised among mankind, promoting what’s good, forbidding what’s evil, and you believe in God. If the People of the Scripture had believed, it would’ve been better for them. Among them are believers, but most of them are sinful.",
+            "verseStringReplacedWithAllah": "You are the best community ever raised among mankind, promoting what’s good, forbidding what’s evil, and you believe in Allah. If the People of the Scripture had believed, it would’ve been better for them. Among them are believers, but most of them are sinful."
+        },
+        {
+            "verseNumber": 111,
+            "verseString": "They won’t harm you except for some annoyance. If they fight you, they will turn their backs and flee, finding no support."
+        },
+        {
+            "verseNumber": 112,
+            "verseString": "They are marked by humiliation wherever they are found, except when they are under a covenant from God and a covenant from people. They drew upon themselves God’s wrath and are marked by misery. This is because they rejected God’s revelations, unjustly killed the prophets, and persistently defied and transgressed.",
+            "verseStringReplacedWithAllah": "They are marked by humiliation wherever they are found, except when they are under a covenant from Allah and a covenant from people. They drew upon themselves Allah’s wrath and are marked by misery. This is because they rejected Allah’s revelations, unjustly killed the prophets, and persistently defied and transgressed."
+        },
+        {
+            "verseNumber": 113,
+            "verseString": "Not all of them are alike. Among the People of the Scripture, an upright community recites God’s verses during the night hours, and they prostrate themselves.",
+            "verseStringReplacedWithAllah": "Not all of them are alike. Among the People of the Scripture, an upright community recites Allah’s verses during the night hours, and they prostrate themselves."
+        },
+        {
+            "verseNumber": 114,
+            "verseString": "They believe in God and the Last Day, advocate for what’s right, forbid what’s wrong, and hasten to perform good deeds. These are among the righteous.",
+            "verseStringReplacedWithAllah": "They believe in Allah and the Last Day, advocate for what’s right, forbid what’s wrong, and hasten to perform good deeds. These are among the righteous."
+        },
+        {
+            "verseNumber": 115,
+            "verseString": "No good deed of theirs is ever rejected. God is fully aware of the virtuous.",
+            "verseStringReplacedWithAllah": "No good deed of theirs is ever rejected. Allah is fully aware of the virtuous."
+        },
+        {
+            "verseNumber": 116,
+            "verseString": "As for the unbelievers, their wealth and children won’t avail against God. They are destined for the Fire, where they will remain forever.",
+            "verseStringReplacedWithAllah": "As for the unbelievers, their wealth and children won’t avail against Allah. They are destined for the Fire, where they will remain forever."
+        },
+        {
+            "verseNumber": 117,
+            "verseString": "What they spend in this life is similar to a wind that has frost and strikes the harvest of a people who wronged themselves and destroys it. God didn’t wrong them, but they wronged themselves.",
+            "verseStringReplacedWithAllah": "What they spend in this life is similar to a wind that has frost and strikes the harvest of a people who wronged themselves and destroys it. Allah didn’t wrong them, but they wronged themselves."
+        },
+        {
+            "verseNumber": 118,
+            "verseString": "O you who believe, don’t take as confidants those outside your ranks, as they will spare no effort to harm you. They desire your downfall. Their words show their hatred, but what their hearts conceal is far worse. We made the signs clear for you, if you would understand."
+        },
+        {
+            "verseNumber": 119,
+            "verseString": "Here you are, loving them, yet they don’t love you, while you believe in the entirety of the Scripture. When they encounter you, they say, “We believe.” But when they’re alone, they bite their fingertips in rage against you. Say, “Die in your rage!” God is fully aware of what’s in the hearts.",
+            "verseStringReplacedWithAllah": "Here you are, loving them, yet they don’t love you, while you believe in the entirety of the Scripture. When they encounter you, they say, “We believe.” But when they’re alone, they bite their fingertips in rage against you. Say, “Die in your rage!” Allah is fully aware of what’s in the hearts."
+        },
+        {
+            "verseNumber": 120,
+            "verseString": "If a good thing befalls you, it grieves them; but if a disaster strikes you, they rejoice. However, if you remain patient and righteous, their scheming won’t harm you at all. God encompasses all their actions.",
+            "verseStringReplacedWithAllah": "If a good thing befalls you, it grieves them; but if a disaster strikes you, they rejoice. However, if you remain patient and righteous, their scheming won’t harm you at all. Allah encompasses all their actions."
+        },
+        {
+            "verseNumber": 121,
+            "verseString": "And when you departed from your family in the morning to position the believers at their battle posts. And God is Hearing and Knowing.",
+            "verseStringReplacedWithAllah": "And when you departed from your family in the morning to position the believers at their battle posts. And Allah is Hearing and Knowing."
+        },
+        {
+            "verseNumber": 122,
+            "verseString": "Two groups among you were about to falter, but God was their supporter. In God, the believers should place their trust.",
+            "verseStringReplacedWithAllah": "Two groups among you were about to falter, but Allah was their supporter. In Allah, the believers should place their trust."
+        },
+        {
+            "verseNumber": 123,
+            "verseString": "God had already granted you victory at Badr when you were outnumbered. So, remember God, so you may be grateful.",
+            "verseStringReplacedWithAllah": "Allah had already granted you victory at Badr when you were outnumbered. So, remember Allah, so you may be grateful."
+        },
+        {
+            "verseNumber": 124,
+            "verseString": "Remember when you were telling the believers, “Is it not enough that your Lord has reinforced you with three thousand angels sent down?”"
+        },
+        {
+            "verseNumber": 125,
+            "verseString": "Yes, if you remain patient and mindful, and they attack you suddenly, your Lord will reinforce you with five thousand angels, clearly marked."
+        },
+        {
+            "verseNumber": 126,
+            "verseString": "God designed this as a message of reassurance to soothe your hearts. Victory comes solely from God, the Mighty, the Wise.",
+            "verseStringReplacedWithAllah": "Allah designed this as a message of reassurance to soothe your hearts. Victory comes solely from Allah, the Mighty, the Wise."
+        },
+        {
+            "verseNumber": 127,
+            "verseString": "His intent was to cut off a section of the unbelievers or restrain them, so they retreat in frustration."
+        },
+        {
+            "verseNumber": 128,
+            "verseString": "It’s not for you to decide whether He should forgive or punish them; they are wrongdoers."
+        },
+        {
+            "verseNumber": 129,
+            "verseString": "To God belongs everything in the heavens and everything on the earth. He forgives whom He wills and punishes whom He wills. God is Forgiving and Merciful.",
+            "verseStringReplacedWithAllah": "To Allah belongs everything in the heavens and everything on the earth. He forgives whom He wills and punishes whom He wills. Allah is Forgiving and Merciful."
+        },
+        {
+            "verseNumber": 130,
+            "verseString": "O you who believe, don’t consume usury, which accumulates and multiplies. Fear God, so that you may prosper.",
+            "verseStringReplacedWithAllah": "O you who believe, don’t consume usury, which accumulates and multiplies. Fear Allah, so that you may prosper."
+        },
+        {
+            "verseNumber": 131,
+            "verseString": "Protect yourselves from a Fire prepared for the unbelievers."
+        },
+        {
+            "verseNumber": 132,
+            "verseString": "And obey God and the Messenger that you may obtain mercy.",
+            "verseStringReplacedWithAllah": "And obey Allah and the Messenger that you may obtain mercy."
+        },
+        {
+            "verseNumber": 133,
+            "verseString": "Hurry to forgiveness from your Lord and a Paradise as vast as the heavens and the earth, prepared for the pious."
+        },
+        {
+            "verseNumber": 134,
+            "verseString": "Those who spend during ease and hardship, restrain their anger, and pardon people—God loves the doers of good.",
+            "verseStringReplacedWithAllah": "Those who spend during ease and hardship, restrain their anger, and pardon people—Allah loves the doers of good."
+        },
+        {
+            "verseNumber": 135,
+            "verseString": "Those who, when they commit an immorality or wrong themselves, remember God and seek forgiveness for their sins. Who but God can forgive sins? And they don’t knowingly persist in their wrongdoing.",
+            "verseStringReplacedWithAllah": "Those who, when they commit an immorality or wrong themselves, remember Allah and seek forgiveness for their sins. Who but Allah can forgive sins? And they don’t knowingly persist in their wrongdoing."
+        },
+        {
+            "verseNumber": 136,
+            "verseString": "Their reward is forgiveness from their Lord, and gardens beneath which rivers flow, where they will abide forever. How excellent is the reward for the workers!"
+        },
+        {
+            "verseNumber": 137,
+            "verseString": "Numerous ways of life have passed before you. So, travel through the earth and observe how the end of the deniers was."
+        },
+        {
+            "verseNumber": 138,
+            "verseString": "This is a clear explanation for humanity, and guidance and advice for the righteous."
+        },
+        {
+            "verseNumber": 139,
+            "verseString": "Don’t lose heart or be sad; you are the superior ones—if you are believers."
+        },
+        {
+            "verseNumber": 140,
+            "verseString": "If a wound has touched you, similar wounds have touched the others. Such days We give to people by turns, so that God may identify those who believe, and take witnesses from among you. God doesn’t love the wrongdoers.",
+            "verseStringReplacedWithAllah": "If a wound has touched you, similar wounds have touched the others. Such days We give to people by turns, so that Allah may identify those who believe, and take witnesses from among you. Allah doesn’t love the wrongdoers."
+        },
+        {
+            "verseNumber": 141,
+            "verseString": "And thus, God purifies the believers and destroys the unbelievers.",
+            "verseStringReplacedWithAllah": "And thus, Allah purifies the believers and destroys the unbelievers."
+        },
+        {
+            "verseNumber": 142,
+            "verseString": "Did you think you would enter Paradise without God distinguishing those among you who strive for His cause and those who are steadfast?",
+            "verseStringReplacedWithAllah": "Did you think you would enter Paradise without Allah distinguishing those among you who strive for His cause and those who are steadfast?"
+        },
+        {
+            "verseNumber": 143,
+            "verseString": "You were desiring death before you met it. Now, you’ve seen it while looking."
+        },
+        {
+            "verseNumber": 144,
+            "verseString": "Muhammad is only a messenger. Numerous messengers have preceded him. If he were to die or be killed, would you then turn back on your heels? Those who turn back won’t harm God in the least. God will reward the grateful.",
+            "verseStringReplacedWithAllah": "Muhammad is only a messenger. Numerous messengers have preceded him. If he were to die or be killed, would you then turn back on your heels? Those who turn back won’t harm Allah in the least. Allah will reward the grateful."
+        },
+        {
+            "verseNumber": 145,
+            "verseString": "No soul can die except by God’s leave, at a time ordained. Whoever wants the rewards of this world, We will give him thereof. And whoever wants the rewards of the Hereafter, We will give him thereof. We will reward the thankful.",
+            "verseStringReplacedWithAllah": "No soul can die except by Allah’s leave, at a time ordained. Whoever wants the rewards of this world, We will give him thereof. And whoever wants the rewards of the Hereafter, We will give him thereof. We will reward the thankful."
+        },
+        {
+            "verseNumber": 146,
+            "verseString": "How many a prophet fought alongside him, many godly men? They didn’t waver in the face of what afflicted them in God’s path, nor did they weaken or give in. God loves the steadfast.",
+            "verseStringReplacedWithAllah": "How many a prophet fought alongside him, many godly men? They didn’t waver in the face of what afflicted them in Allah’s path, nor did they weaken or give in. Allah loves the steadfast."
+        },
+        {
+            "verseNumber": 147,
+            "verseString": "Their only plea was, “Our Lord, forgive us our sins and our excesses in our affairs, strengthen our foothold, and give us victory over the disbelieving people.”"
+        },
+        {
+            "verseNumber": 148,
+            "verseString": "So, God granted them this world’s reward and the Hereafter’s excellent reward. And God loves the doers of good.",
+            "verseStringReplacedWithAllah": "So, Allah granted them this world’s reward and the Hereafter’s excellent reward. And Allah loves the doers of good."
+        },
+        {
+            "verseNumber": 149,
+            "verseString": "O you who believe, if you listen to the non-believers, they will turn you back on your heels, and you will become losers."
+        },
+        {
+            "verseNumber": 150,
+            "verseString": "God is your Protector, and He is the best of helpers.",
+            "verseStringReplacedWithAllah": "Allah is your Protector, and He is the best of helpers."
+        },
+        {
+            "verseNumber": 151,
+            "verseString": "We will cast terror into the hearts of those who disbelieve, because they associate partners with God without His authorization. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.",
+            "verseStringReplacedWithAllah": "We will cast terror into the hearts of those who disbelieve, because they associate partners with Allah without His authorization. And their refuge will be the Fire, and wretched is the residence of the wrongdoers."
+        },
+        {
+            "verseNumber": 152,
+            "verseString": "God fulfilled His promise to you when, by His permission, you were on the verge of defeating them. But you faltered, disputed, and disobeyed after He had shown you what you longed for. Some of you sought the worldly life, while others sought the Hereafter. Then He diverted you from them to test you. But He has since pardoned you. God is gracious to the believers.",
+            "verseStringReplacedWithAllah": "Allah fulfilled His promise to you when, by His permission, you were on the verge of defeating them. But you faltered, disputed, and disobeyed after He had shown you what you longed for. Some of you sought the worldly life, while others sought the Hereafter. Then He diverted you from them to test you. But He has since pardoned you. Allah is gracious to the believers."
+        },
+        {
+            "verseNumber": 153,
+            "verseString": "When you were fleeing, without looking back, while the Messenger was calling you from behind, He inflicted upon you one distress after another, so you would not grieve over what you missed or what befell you. God is fully aware of what you do.",
+            "verseStringReplacedWithAllah": "When you were fleeing, without looking back, while the Messenger was calling you from behind, He inflicted upon you one distress after another, so you would not grieve over what you missed or what befell you. Allah is fully aware of what you do."
+        },
+        {
+            "verseNumber": 154,
+            "verseString": "After the setback, He sent down tranquility upon you. A slumber overcame some of you, while others were concerned only about themselves, harboring misconceptions about God—thoughts of ignorance. They asked, “Do we have any say in the matter?” Say, “The entire affair rests with God.” They conceal within themselves what they don’t disclose to you. They say, “If we had control over the situation, we wouldn’t have been killed here.” Say, “Even if you had been inside your homes, those destined to be killed would have met their end.” Thus, God tests your inner selves and purifies your hearts. God is aware of the innermost thoughts.",
+            "verseStringReplacedWithAllah": "After the setback, He sent down tranquility upon you. A slumber overcame some of you, while others were concerned only about themselves, harboring misconceptions about Allah—thoughts of ignorance. They asked, “Do we have any say in the matter?” Say, “The entire affair rests with Allah.” They conceal within themselves what they don’t disclose to you. They say, “If we had control over the situation, we wouldn’t have been killed here.” Say, “Even if you had been inside your homes, those destined to be killed would have met their end.” Thus, Allah tests your inner selves and purifies your hearts. Allah is aware of the innermost thoughts."
+        },
+        {
+            "verseNumber": 155,
+            "verseString": "Those of you who turned back on the day the two armies met, Satan caused them to stumble due to some of their deeds. But God has forgiven them. God is Forgiving and Forbearing.",
+            "verseStringReplacedWithAllah": "Those of you who turned back on the day the two armies met, Satan caused them to stumble due to some of their deeds. But Allah has forgiven them. Allah is Forgiving and Forbearing."
+        },
+        {
+            "verseNumber": 156,
+            "verseString": "O you who believe, don’t be like those who disbelieve, speaking of their brethren who marched in the land, or went on the offensive, “Had they stayed with us, they wouldn’t have died or been killed.” God makes this a source of regret in their hearts. God gives life and brings death, and God is observant of what you do.",
+            "verseStringReplacedWithAllah": "O you who believe, don’t be like those who disbelieve, speaking of their brethren who marched in the land, or went on the offensive, “Had they stayed with us, they wouldn’t have died or been killed.” Allah makes this a source of regret in their hearts. Allah gives life and brings death, and Allah is observant of what you do."
+        },
+        {
+            "verseNumber": 157,
+            "verseString": "If you are killed or die in God’s cause, surely God’s forgiveness and mercy are better than what they accumulate.",
+            "verseStringReplacedWithAllah": "If you are killed or die in Allah’s cause, surely Allah’s forgiveness and mercy are better than what they accumulate."
+        },
+        {
+            "verseNumber": 158,
+            "verseString": "Whether you die or are killed, to God you will be gathered.",
+            "verseStringReplacedWithAllah": "Whether you die or are killed, to Allah you will be gathered."
+        },
+        {
+            "verseNumber": 159,
+            "verseString": "Due to the Mercy of God, you were gentle with them. Had you been harsh and hard-hearted, they would’ve dispersed from around you. So forgive them, pray for their forgiveness, and consult with them in the matter. Once you’ve decided, put your trust in God. God loves those who trust.",
+            "verseStringReplacedWithAllah": "Due to the Mercy of Allah, you were gentle with them. Had you been harsh and hard-hearted, they would’ve dispersed from around you. So forgive them, pray for their forgiveness, and consult with them in the matter. Once you’ve decided, put your trust in Allah. Allah loves those who trust."
+        },
+        {
+            "verseNumber": 160,
+            "verseString": "If God helps you, none can defeat you, and if He forsakes you, who else can assist you? Therefore, let the believers put their trust in God.",
+            "verseStringReplacedWithAllah": "If Allah helps you, none can defeat you, and if He forsakes you, who else can assist you? Therefore, let the believers put their trust in Allah."
+        },
+        {
+            "verseNumber": 161,
+            "verseString": "It is not for a prophet to defraud. Whoever cheats will bring his cheating with him on Resurrection Day. Then, every soul will be fully compensated for its deeds and won’t be wronged."
+        },
+        {
+            "verseNumber": 162,
+            "verseString": "Is one who follows God’s approval like one who incurred God’s wrath and whose dwelling is Hell—a miserable destination?",
+            "verseStringReplacedWithAllah": "Is one who follows Allah’s approval like one who incurred Allah’s wrath and whose dwelling is Hell—a miserable destination?"
+        },
+        {
+            "verseNumber": 163,
+            "verseString": "These are distinct positions before God, and God sees what they do.",
+            "verseStringReplacedWithAllah": "These are distinct positions before Allah, and Allah sees what they do."
+        },
+        {
+            "verseNumber": 164,
+            "verseString": "God has been gracious to the believers when He sent a Messenger from among them, who conveys His verses to them, purifies them, and teaches them the Scripture and wisdom. Before this, they were clearly astray.",
+            "verseStringReplacedWithAllah": "Allah has been gracious to the believers when He sent a Messenger from among them, who conveys His verses to them, purifies them, and teaches them the Scripture and wisdom. Before this, they were clearly astray."
+        },
+        {
+            "verseNumber": 165,
+            "verseString": "When tragedy befell you, even though you had inflicted twice as much, you asked, “How did this happen?” Say, “It is from your own selves.” God has power over all things.",
+            "verseStringReplacedWithAllah": "When tragedy befell you, even though you had inflicted twice as much, you asked, “How did this happen?” Say, “It is from your own selves.” Allah has power over all things."
+        },
+        {
+            "verseNumber": 166,
+            "verseString": "What transpired on the day the two armies met was, by God’s decree, to test the believers.",
+            "verseStringReplacedWithAllah": "What transpired on the day the two armies met was, by Allah’s decree, to test the believers."
+        },
+        {
+            "verseNumber": 167,
+            "verseString": "And to expose the hypocrites. They were told, “Come, fight in the path of God, or at least defend.” They responded, “If we knew how to fight, we would follow you.” On that day, they were nearer to disbelief than to belief. They say with their mouths what’s not in their hearts. God is fully aware of what they conceal.",
+            "verseStringReplacedWithAllah": "And to expose the hypocrites. They were told, “Come, fight in the path of Allah, or at least defend.” They responded, “If we knew how to fight, we would follow you.” On that day, they were nearer to disbelief than to belief. They say with their mouths what’s not in their hearts. Allah is fully aware of what they conceal."
+        },
+        {
+            "verseNumber": 168,
+            "verseString": "Those who stayed behind said of their brothers, “If they had obeyed us, they wouldn’t have been killed.” Say, “Then fend off death from yourselves, if you are sincere.”"
+        },
+        {
+            "verseNumber": 169,
+            "verseString": "Don’t consider those who were killed in God’s cause as dead. Instead, they are alive, in the presence of their Lord, being provided for.",
+            "verseStringReplacedWithAllah": "Don’t consider those who were killed in Allah’s cause as dead. Instead, they are alive, in the presence of their Lord, being provided for."
+        },
+        {
+            "verseNumber": 170,
+            "verseString": "Rejoicing in what God bestowed upon them of His bounty, they are glad for those who haven’t yet joined them, because they will have no fear or sadness.",
+            "verseStringReplacedWithAllah": "Rejoicing in what Allah bestowed upon them of His bounty, they are glad for those who haven’t yet joined them, because they will have no fear or sadness."
+        },
+        {
+            "verseNumber": 171,
+            "verseString": "They rejoice in God’s favor and bounty, and that God won’t let the reward of the believers go to waste.",
+            "verseStringReplacedWithAllah": "They rejoice in Allah’s favor and bounty, and that Allah won’t let the reward of the believers go to waste."
+        },
+        {
+            "verseNumber": 172,
+            "verseString": "Those who respond to God and the Messenger, even in the face of adversity, and maintain their righteousness and devotion, are promised a grand reward.",
+            "verseStringReplacedWithAllah": "Those who respond to Allah and the Messenger, even in the face of adversity, and maintain their righteousness and devotion, are promised a grand reward."
+        },
+        {
+            "verseNumber": 173,
+            "verseString": "Those to whom people said, “The people have amassed against you, so fear them,” it only increased their faith, and they responded, “God is sufficient for us, and what an excellent guardian He is.”",
+            "verseStringReplacedWithAllah": "Those to whom people said, “The people have amassed against you, so fear them,” it only increased their faith, and they responded, “Allah is sufficient for us, and what an excellent guardian He is.”"
+        },
+        {
+            "verseNumber": 174,
+            "verseString": "So they returned with a favor and bounty from God, and no harm touched them. They followed the pleasure of God; and God possesses great bounty.",
+            "verseStringReplacedWithAllah": "So they returned with a favor and bounty from Allah, and no harm touched them. They followed the pleasure of Allah; and Allah possesses great bounty."
+        },
+        {
+            "verseNumber": 175,
+            "verseString": "It is only Satan who frightens his followers. So fear them not, but fear Me, if you are true believers."
+        },
+        {
+            "verseNumber": 176,
+            "verseString": "Don’t grieve over those who rush into disbelief. They can’t harm God. God intends to give them no share in the Hereafter, and for them is a painful punishment.",
+            "verseStringReplacedWithAllah": "Don’t grieve over those who rush into disbelief. They can’t harm Allah. Allah intends to give them no share in the Hereafter, and for them is a painful punishment."
+        },
+        {
+            "verseNumber": 177,
+            "verseString": "Those who purchase disbelief at the cost of faith can’t harm God at all, and a severe punishment awaits them.",
+            "verseStringReplacedWithAllah": "Those who purchase disbelief at the cost of faith can’t harm Allah at all, and a severe punishment awaits them."
+        },
+        {
+            "verseNumber": 178,
+            "verseString": "Don’t assume that the respite We grant the unbelievers is for their good. We only delay their punishment so they may increase in sin. And they will face a humiliating punishment."
+        },
+        {
+            "verseNumber": 179,
+            "verseString": "God will not leave the believers in the condition you’re in until He distinguishes the wicked from the good. Nor would God disclose to you the unseen. However, God selects from His messengers whom He wills. So, believe in God and His messengers. If you maintain your faith and righteousness, you will receive an immense reward.",
+            "verseStringReplacedWithAllah": "Allah will not leave the believers in the condition you’re in until He distinguishes the wicked from the good. Nor would Allah disclose to you the unseen. However, Allah selects from His messengers whom He wills. So, believe in Allah and His messengers. If you maintain your faith and righteousness, you will receive an immense reward."
+        },
+        {
+            "verseNumber": 180,
+            "verseString": "Let not those who withhold what God has given them of His bounty think it’s good for them. In fact, it’s detrimental to them. They will be besieged by what they hoarded on Resurrection Day. To God belongs the heritage of the heavens and the earth; and God is well-acquainted with what you do.",
+            "verseStringReplacedWithAllah": "Let not those who withhold what Allah has given them of His bounty think it’s good for them. In fact, it’s detrimental to them. They will be besieged by what they hoarded on Resurrection Day. To Allah belongs the heritage of the heavens and the earth; and Allah is well-acquainted with what you do."
+        },
+        {
+            "verseNumber": 181,
+            "verseString": "God has heard the statement of those who said, “God is impoverished, and we are wealthy.” We will record what they said, along with their unjust killing of the prophets, and We will say, “Taste the suffering of the blaze.”",
+            "verseStringReplacedWithAllah": "Allah has heard the statement of those who said, “Allah is impoverished, and we are wealthy.” We will record what they said, along with their unjust killing of the prophets, and We will say, “Taste the suffering of the blaze.”"
+        },
+        {
+            "verseNumber": 182,
+            "verseString": "This is because of what your hands have put forth. God is never unjust to the beings.",
+            "verseStringReplacedWithAllah": "This is because of what your hands have put forth. Allah is never unjust to the beings."
+        },
+        {
+            "verseNumber": 183,
+            "verseString": "Those who say, “God covenanted with us that we shouldn’t believe in any messenger unless he brings us a sacrificial offering consumed by fire.” Say, “Surely, messengers have come to you before me with clear signs and with what you said. Why then did you kill them, if you are truthful?”",
+            "verseStringReplacedWithAllah": "Those who say, “Allah covenanted with us that we shouldn’t believe in any messenger unless he brings us a sacrificial offering consumed by fire.” Say, “Surely, messengers have come to you before me with clear signs and with what you said. Why then did you kill them, if you are truthful?”"
+        },
+        {
+            "verseNumber": 184,
+            "verseString": "If they reject you, so were messengers before you also rejected. They came with clear signs, scriptures, and the Enlightening Book."
+        },
+        {
+            "verseNumber": 185,
+            "verseString": "Every soul will taste death. Then, you will receive your full compensation on Resurrection Day. Whoever is swayed from the Fire and admitted to Paradise has succeeded. The life of this world is nothing but an enjoyment of delusion."
+        },
+        {
+            "verseNumber": 186,
+            "verseString": "You will be tested in your possessions and yourselves, and you will hear many hurtful comments from those who were given the Scripture before you, and from the idolaters. But if you are patient and righteous, that will be a pivotal stance."
+        },
+        {
+            "verseNumber": 187,
+            "verseString": "God took a covenant from those given the Scripture: “You must make it known to people and not conceal it.” Yet they threw it away behind their backs, selling it for a trivial price. Evil is what they’ve purchased!",
+            "verseStringReplacedWithAllah": "Allah took a covenant from those given the Scripture: “You must make it known to people and not conceal it.” Yet they threw it away behind their backs, selling it for a trivial price. Evil is what they’ve purchased!"
+        },
+        {
+            "verseNumber": 188,
+            "verseString": "Don’t think that those who take pride in their deeds, and they love to be praised for what they haven’t done, will evade punishment. A severe punishment awaits them."
+        },
+        {
+            "verseNumber": 189,
+            "verseString": "To God belongs the sovereignty of the heavens and the earth. God has power over all things.",
+            "verseStringReplacedWithAllah": "To Allah belongs the sovereignty of the heavens and the earth. Allah has power over all things."
+        },
+        {
+            "verseNumber": 190,
+            "verseString": "In the creation of the heavens and the earth, and the cycle of night and day, there are signs for those with discernment."
+        },
+        {
+            "verseNumber": 191,
+            "verseString": "Those who remember God while standing, sitting, or on their sides, and reflect upon the creation of the heavens and the earth: “Our Lord, You didn’t create all this in vain. Glory be to You. Protect us from the torment of the Fire.”",
+            "verseStringReplacedWithAllah": "Those who remember Allah while standing, sitting, or on their sides, and reflect upon the creation of the heavens and the earth: “Our Lord, You didn’t create all this in vain. Glory be to You. Protect us from the torment of the Fire.”"
+        },
+        {
+            "verseNumber": 192,
+            "verseString": "“Our Lord, indeed, whomever You admit to the Fire, You’ve utterly disgraced. The wrongdoers have no helpers.”"
+        },
+        {
+            "verseNumber": 193,
+            "verseString": "“Our Lord, we’ve heard a caller calling to faith: ‘Believe in your Lord,’ and we have believed. Our Lord, forgive us of our sins, wipe away from us our misdeeds, and make us die with the virtuous.”"
+        },
+        {
+            "verseNumber": 194,
+            "verseString": "“Our Lord, fulfill what You’ve promised us through Your messengers, and don’t disgrace us on Resurrection Day. Surely, You never break Your promise.”"
+        },
+        {
+            "verseNumber": 195,
+            "verseString": "Their Lord responded to them, “I won’t allow the work of any worker among you, whether male or female, be wasted. You are from one another. Those who emigrated, were expelled from their homes, suffered in My cause, fought, and were killed—I will absolve them of their misdeeds, and I will admit them into Gardens through which rivers flow. This is a reward from God, and with God lies the best reward.”",
+            "verseStringReplacedWithAllah": "Their Lord responded to them, “I won’t allow the work of any worker among you, whether male or female, be wasted. You are from one another. Those who emigrated, were expelled from their homes, suffered in My cause, fought, and were killed—I will absolve them of their misdeeds, and I will admit them into Gardens through which rivers flow. This is a reward from Allah, and with Allah lies the best reward.”"
+        },
+        {
+            "verseNumber": 196,
+            "verseString": "Let not the activities of the unbelievers in the land deceive you."
+        },
+        {
+            "verseNumber": 197,
+            "verseString": "It’s a brief enjoyment. Then their dwelling will be Hell—what a wretched resting place!"
+        },
+        {
+            "verseNumber": 198,
+            "verseString": "However, those who revere their Lord will have Gardens beneath which rivers flow, where they will dwell forever—a welcome from God. What is with God is best for the pure.",
+            "verseStringReplacedWithAllah": "However, those who revere their Lord will have Gardens beneath which rivers flow, where they will dwell forever—a welcome from Allah. What is with Allah is best for the pure."
+        },
+        {
+            "verseNumber": 199,
+            "verseString": "Among the People of the Scripture, there are some who believe in God, in what was revealed to you, and in what was revealed to them. They are humble towards God, they don’t sell God’s verses for a meager price. These will have their reward with their Lord. God is swift in reckoning.",
+            "verseStringReplacedWithAllah": "Among the People of the Scripture, there are some who believe in Allah, in what was revealed to you, and in what was revealed to them. They are humble towards Allah, they don’t sell Allah’s verses for a meager price. These will have their reward with their Lord. Allah is swift in reckoning."
+        },
+        {
+            "verseNumber": 200,
+            "verseString": "O you who believe, be patient, vie in perseverance, stand firm, and be mindful of God, so that you may succeed.",
+            "verseStringReplacedWithAllah": "O you who believe, be patient, vie in perseverance, stand firm, and be mindful of Allah, so that you may succeed."
+        }
+    ],
+    "chapterNumber": 3,
+    "nameInEnglish": "Family of Imran",
+    "nameInTransliteration": "Ali Imran",
+    "nameInArabic": "آل عمران",
+    "numberOfVerses": 200
+}

@@ -1,0 +1,46 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "The quest for increase distracts you."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "Until you visit the graveyards."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Indeed, you will come to know."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "Surely, you will definitely come to realize."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Certainly, if only you knew with absolute certainty."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "You will definitely see Hellfire."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "Then, you will surely see it with the eye of reality."
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "Then, on that Day, you will be questioned about the pleasures."
+        }
+    ],
+    "chapterNumber": 102,
+    "nameInEnglish": "Increase ",
+    "nameInTransliteration": "Al Takathur",
+    "nameInArabic": "الـتكاثر",
+    "numberOfVerses": 8
+}

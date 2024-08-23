@@ -1,0 +1,47 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "By the fig and the olive."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "And Mount Sinai."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "And this secure city."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "We created man in the best design."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Then, We returned him to the lowest of the low."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "Except for those who believe and do righteous deeds, they will have an unending reward."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "What then makes you deny the Recompense?"
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "Isn’t God the Wisest of judges?",
+            "verseStringReplacedWithAllah": "Isn’t Allah the Wisest of judges?"
+        }
+    ],
+    "chapterNumber": 95,
+    "nameInEnglish": "The Fig",
+    "nameInTransliteration": "At Tin",
+    "nameInArabic": "الـتين",
+    "numberOfVerses": 8
+}

@@ -1,0 +1,34 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Perish the hands of Abu Lahab, and perish he."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "Neither his wealth nor his earnings will avail him."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "He will enter a flaming Fire."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "And his wife, the carrier of firewood."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Around her neck is a rope of palm fiber."
+        }
+    ],
+    "chapterNumber": 111,
+    "nameInEnglish": "Palm Fiber",
+    "nameInTransliteration": "Al Masad",
+    "nameInArabic": "الـمسد",
+    "numberOfVerses": 5
+}

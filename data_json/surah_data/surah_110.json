@@ -1,0 +1,28 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "When God’s assistance and victory come.",
+            "verseStringReplacedWithAllah": "When Allah’s assistance and victory come."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "And you see people entering God’s religion in multitudes.",
+            "verseStringReplacedWithAllah": "And you see people entering Allah’s religion in multitudes."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Then, glorify the praises of your Lord, and seek His forgiveness. He is ever accepting of repentance."
+        }
+    ],
+    "chapterNumber": 110,
+    "nameInEnglish": "Victory",
+    "nameInTransliteration": "An Nasr",
+    "nameInArabic": "الـنصر",
+    "numberOfVerses": 3
+}

@@ -1,0 +1,32 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Say, “He is God, One and only.",
+            "verseStringReplacedWithAllah": "Say, “He is Allah, One and only."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "God, the Eternal, the Absolute.",
+            "verseStringReplacedWithAllah": "Allah, the Eternal, the Absolute."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "He neither begets nor is He begotten."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "And there is none comparable or equivalent to Him.”"
+        }
+    ],
+    "chapterNumber": 112,
+    "nameInEnglish": "Fidelity",
+    "nameInTransliteration": "Al Ikhlas",
+    "nameInArabic": "الإخلاص",
+    "numberOfVerses": 4
+}

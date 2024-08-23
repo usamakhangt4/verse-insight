@@ -1,0 +1,26 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "We’ve given you abundance."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "So, pray to your Lord and sacrifice."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "He who hates you, he will be cut off."
+        }
+    ],
+    "chapterNumber": 108,
+    "nameInEnglish": "Abundance",
+    "nameInTransliteration": "Al Kawthar",
+    "nameInArabic": "الـكوثر",
+    "numberOfVerses": 3
+}

@@ -1,0 +1,58 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "By the late morning light."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "And by the night as it settles."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Your Lord didn’t abandon you, nor is He displeased."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "The Hereafter is better for you than the First."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "And your Lord will give you, and you will be satisfied."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "Didn’t He find you an orphan, and He provided a home?"
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "And He found you lost, and He offered guidance?"
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "And He found you in need, and He granted sufficiency?"
+        },
+        {
+            "verseNumber": 9,
+            "verseString": "Therefore, don’t treat the orphan with harshness."
+        },
+        {
+            "verseNumber": 10,
+            "verseString": "And don’t repulse the one who asks."
+        },
+        {
+            "verseNumber": 11,
+            "verseString": "But speak of the blessings of your Lord."
+        }
+    ],
+    "chapterNumber": 93,
+    "nameInEnglish": "Morning Light",
+    "nameInTransliteration": "Ad Duha",
+    "nameInArabic": "الضـحى",
+    "numberOfVerses": 11
+}

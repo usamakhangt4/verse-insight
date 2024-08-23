@@ -1,0 +1,46 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Didn’t We soothe your heart for you?"
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "And We removed from you your burden."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "That weighed heavily on your back."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "And We raised high for you your reputation."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Surely, with hardship comes ease."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "Certainly, with difficulty, there is relief."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "Once you have completed your tasks, turn to devotion."
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "And to your Lord direct your longing."
+        }
+    ],
+    "chapterNumber": 94,
+    "nameInEnglish": "The Soothing",
+    "nameInTransliteration": "Al Sharh",
+    "nameInArabic": "الـشرح",
+    "numberOfVerses": 8
+}

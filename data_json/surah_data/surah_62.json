@@ -1,0 +1,66 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Everything in the heavens and on Earth praises God—the Supreme Sovereign, the Sacred, the Almighty, the All-Wise.",
+            "verseStringReplacedWithAllah": "Everything in the heavens and on Earth praises Allah—the Supreme Sovereign, the Sacred, the Almighty, the All-Wise."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "It is He who raised, amidst the illiterate, a messenger from their own, conveying to them His verses, purifying them, and teaching them the Scripture and wisdom. Before this, they were in clear misguidance."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "And others of them who haven’t yet joined them. He is the Almighty, the Wise."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "That is the grace of God, which He grants to whom He wills. God is the possessor of immense bounty.",
+            "verseStringReplacedWithAllah": "That is the grace of Allah, which He grants to whom He wills. Allah is the possessor of immense bounty."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "The example of those entrusted with the Torah, yet failed to uphold it, is like that of a donkey carrying heavy books. Pitiful is the example of the people who deny God’s revelations. God does not guide wrongdoing people.",
+            "verseStringReplacedWithAllah": "The example of those entrusted with the Torah, yet failed to uphold it, is like that of a donkey carrying heavy books. Pitiful is the example of the people who deny Allah’s revelations. Allah does not guide wrongdoing people."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "Say, “O you who are Jewish, if you claim to be the chosen allies of God, excluding all other people, then wish for death, if you are truthful.”",
+            "verseStringReplacedWithAllah": "Say, “O you who are Jewish, if you claim to be the chosen allies of Allah, excluding all other people, then wish for death, if you are truthful.”"
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "However, they will never wish for it, because of what their hands have done. God is fully aware of the wrongdoers.",
+            "verseStringReplacedWithAllah": "However, they will never wish for it, because of what their hands have done. Allah is fully aware of the wrongdoers."
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "Say, “The death from which you flee will meet you. Then you will be returned to the Knower of the unseen and the seen, and He will inform you of what you used to do.”"
+        },
+        {
+            "verseNumber": 9,
+            "verseString": "O you who believe, when the call to prayer is made on Friday, hurry to the remembrance of God, and leave off business. That’s better for you, if only you knew.",
+            "verseStringReplacedWithAllah": "O you who believe, when the call to prayer is made on Friday, hurry to the remembrance of Allah, and leave off business. That’s better for you, if only you knew."
+        },
+        {
+            "verseNumber": 10,
+            "verseString": "When the prayer is concluded, disperse in the land, seek God’s bounty, and remember God frequently, so you may succeed.",
+            "verseStringReplacedWithAllah": "When the prayer is concluded, disperse in the land, seek Allah’s bounty, and remember Allah frequently, so you may succeed."
+        },
+        {
+            "verseNumber": 11,
+            "verseString": "Yet when they see some trade or entertainment, they scatter towards it and leave you standing. Say, “What’s with God is better than any amusement or trade, and God is the Best of Providers.”",
+            "verseStringReplacedWithAllah": "Yet when they see some trade or entertainment, they scatter towards it and leave you standing. Say, “What’s with Allah is better than any amusement or trade, and Allah is the Best of Providers.”"
+        }
+    ],
+    "chapterNumber": 62,
+    "nameInEnglish": "Friday",
+    "nameInTransliteration": "Al Jumuah",
+    "nameInArabic": "الـجـمـعـة",
+    "numberOfVerses": 11
+}

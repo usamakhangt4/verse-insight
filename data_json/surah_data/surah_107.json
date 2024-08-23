@@ -1,0 +1,42 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Didn’t you see the one who denies the religion?"
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "It is he who repulses the orphan."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "And doesn’t encourage the feeding of the needy."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "So woe to those who pray."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Those who are unmindful in their prayers."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "Those who make a show."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "And withhold assistance."
+        }
+    ],
+    "chapterNumber": 107,
+    "nameInEnglish": "Assistance",
+    "nameInTransliteration": "Al Maun",
+    "nameInArabic": "المـاعون",
+    "numberOfVerses": 7
+}

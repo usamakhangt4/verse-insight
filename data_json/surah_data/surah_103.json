@@ -1,0 +1,26 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "By Time."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "The human being is at a loss."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Except for those who believe, do good deeds, encourage truth, and recommend patience."
+        }
+    ],
+    "chapterNumber": 103,
+    "nameInEnglish": "Time",
+    "nameInTransliteration": "Al Asr",
+    "nameInArabic": "الـعصر",
+    "numberOfVerses": 3
+}

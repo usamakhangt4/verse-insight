@@ -1,0 +1,51 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Woe to every slanderer and backbiter."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "He who gathers wealth and counts it over."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Thinking that his wealth will eternalize him."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "No indeed! He will be thrust into the Crusher."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "And what will make you understand what the Crusher is?"
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "It is the kindled fire of God.",
+            "verseStringReplacedWithAllah": "It is the kindled fire of Allah."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "Which leaps up over the hearts."
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "It will be shut upon them."
+        },
+        {
+            "verseNumber": 9,
+            "verseString": "In extended pillars."
+        }
+    ],
+    "chapterNumber": 104,
+    "nameInEnglish": "The Slanderer",
+    "nameInTransliteration": "Al Humazah",
+    "nameInArabic": "الـهمزة",
+    "numberOfVerses": 9
+}

@@ -1,0 +1,34 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Say, “I take refuge in the Lord of Daybreak."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "From the evil of what He created."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "And from the evil of the darkness when it settles."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "And from the evil of those who blow on knots."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "And from the evil of the envier when he envies.”"
+        }
+    ],
+    "chapterNumber": 113,
+    "nameInEnglish": "Daybreak",
+    "nameInTransliteration": "Al Falaq",
+    "nameInArabic": "الـفلق",
+    "numberOfVerses": 5
+}

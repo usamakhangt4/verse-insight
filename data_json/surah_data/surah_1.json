@@ -1,0 +1,39 @@
+{
+    "verses": [
+        {
+            "verseNumber": 1,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "Praise be to God, Lord of the Universes.",
+            "verseStringReplacedWithAllah": "Praise be to Allah, Lord of the Universes."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "The Most Gracious, the Most Merciful."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "Sovereign of the Day of Judgment."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "It is You we worship, and You we ask for help."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "Guide us along the Straight Path."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "The path of those You have blessed, not of the condemned, nor of the astrayed."
+        }
+    ],
+    "chapterNumber": 1,
+    "nameInEnglish": "The Opening",
+    "nameInTransliteration": "Al Fatihah",
+    "nameInArabic": "الفاتحة",
+    "numberOfVerses": 7
+}

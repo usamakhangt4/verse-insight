@@ -1,0 +1,34 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Didn’t you see how your Lord dealt with the People of the Elephant?"
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "Didn’t He make their plot in confusion?"
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "He sent flocks of birds against them."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "Pelting them with stones of hard clay."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "And He made them like eaten-up stubble."
+        }
+    ],
+    "chapterNumber": 105,
+    "nameInEnglish": "The Elephant",
+    "nameInTransliteration": "Al Fil",
+    "nameInArabic": "الـفيل",
+    "numberOfVerses": 5
+}

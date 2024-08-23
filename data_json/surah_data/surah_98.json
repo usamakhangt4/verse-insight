@@ -1,0 +1,49 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "Those who disbelieved among the People of the Scripture and the polytheists were not separated until clear evidence came to them."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "A Messenger from God, reciting purified pages.",
+            "verseStringReplacedWithAllah": "A Messenger from Allah, reciting purified pages."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "Within them are upright teachings."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "Those given the Scripture didn’t become divided until after the clear evidence came to them."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "They were only commanded to worship God, devoting their religion to Him alone, uphold prayer, and give charity. That is the correct religion.",
+            "verseStringReplacedWithAllah": "They were only commanded to worship Allah, devoting their religion to Him alone, uphold prayer, and give charity. That is the correct religion."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "Those who disbelieved among the People of the Scripture and the polytheists will abide eternally in the fire of Hell. They are the vilest of all beings."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "However, those who believe and perform righteous deeds are the best of all beings."
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "Their reward with their Lord is Gardens of Eternity, through which rivers flow, where they will reside forever. God is pleased with them, and they are pleased with Him. That is for whoever reveres his Lord.",
+            "verseStringReplacedWithAllah": "Their reward with their Lord is Gardens of Eternity, through which rivers flow, where they will reside forever. Allah is pleased with them, and they are pleased with Him. That is for whoever reveres his Lord."
+        }
+    ],
+    "chapterNumber": 98,
+    "nameInEnglish": "Clear Evidence",
+    "nameInTransliteration": "Al Bayyinah",
+    "nameInArabic": "الـبينة",
+    "numberOfVerses": 8
+}

@@ -1,0 +1,34 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "We revealed it on the Night of Destiny."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "And what can make you know what’s the Night of Destiny?"
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "The Night of Destiny is better than a thousand months."
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "During this night, the angels and the Spirit descend, by their Lord’s permission, with every command."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Peace it is, until the rise of dawn."
+        }
+    ],
+    "chapterNumber": 97,
+    "nameInEnglish": "Destiny",
+    "nameInTransliteration": "Al Qadr",
+    "nameInArabic": "الـقدر",
+    "numberOfVerses": 5
+}

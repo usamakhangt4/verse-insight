@@ -1,0 +1,46 @@
+{
+    "verses": [
+        {
+            "verseNumber": 0,
+            "verseString": "In the name of God, the Gracious, the Merciful.",
+            "verseStringReplacedWithAllah": "In the name of Allah, the Gracious, the Merciful."
+        },
+        {
+            "verseNumber": 1,
+            "verseString": "When the earth is shaken with its earthquake."
+        },
+        {
+            "verseNumber": 2,
+            "verseString": "And the earth casts out its burdens."
+        },
+        {
+            "verseNumber": 3,
+            "verseString": "And man says, “What’s the matter with it?”"
+        },
+        {
+            "verseNumber": 4,
+            "verseString": "On that day, it will report its chronicles."
+        },
+        {
+            "verseNumber": 5,
+            "verseString": "Because your Lord will have inspired it."
+        },
+        {
+            "verseNumber": 6,
+            "verseString": "On that Day, the people will emerge in scattered groups to be shown their deeds."
+        },
+        {
+            "verseNumber": 7,
+            "verseString": "Whoever has done an atom’s weight of good will see it."
+        },
+        {
+            "verseNumber": 8,
+            "verseString": "And whoever has done an atom’s weight of evil will see it."
+        }
+    ],
+    "chapterNumber": 99,
+    "nameInEnglish": "The Quake",
+    "nameInTransliteration": "Al Zalzalah",
+    "nameInArabic": "الـزلزلة",
+    "numberOfVerses": 8
+}
